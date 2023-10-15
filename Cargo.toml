@@ -1,0 +1,9 @@
+[package]
+name = "lets-be-rational"
+version = "0.0.1"
+authors = ["Dariusz Depta <wisbery@users.noreply.github.com>"]
+description = "Future project"
+documentation = "https://docs.rs/lets-be-rational"
+repository = "https://github.com/wisbery/lets-be-rational.git"
+license = "MIT OR Apache-2.0"
+edition = "2021"
